@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+li {
+  list-style: none;
+  padding: 10px;
+  display: inline;
+}
+ul {
+  margin-top: 200px;
+}
+img {
+  margin-top: 40px;
+  max-width: 100%;
+  height: auto;
+}
