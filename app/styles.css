@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background: #9fd3c7;
 }
 li {
   list-style: none;
@@ -13,4 +14,11 @@ img {
   margin-top: 40px;
   max-width: 100%;
   height: auto;
+}
+h1 {
+  color: #142d4c;
+}
+p {
+  margin: 20px;
+  font-size: larger;
 }
